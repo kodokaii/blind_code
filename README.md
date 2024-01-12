@@ -14,9 +14,13 @@ La moindre infraction à cette règle sera punie d'une exclusion du tournoi.
 Voici comment l'utiliser :
 
 Écrivez "42editor" dans votre terminal.
+
 Le prompt "file name >" apparaît.
+
 Écrivez le nom du fichier que vous voulez éditer.
+
 Vous commencez à la ligne 0.
+
 
 Si vous écrivez quelque chose et faites "entrer", la ligne actuelle sera remplacée par ce que vous venez d'écrire.
 
