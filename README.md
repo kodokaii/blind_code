@@ -6,7 +6,8 @@ Mais il y a bien sûr une subtilité !
 Pour éditer vos fichiers, vous êtes seulement autorisé à utiliser 42editor.
 
 La moindre infraction à cette règle sera punie d'une exclusion du tournoi.
-42editor ✨
+
+# 42editor ✨
 
 42editor est un éditeur très minimaliste, où vous ne pouvez voir et éditer qu'une seule ligne à la fois.
 
