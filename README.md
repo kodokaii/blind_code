@@ -1,5 +1,3 @@
-tu peut corriger les fautes de se texte et ajouter les bon accent
-
 Bienvenue au Blind Code Tournament !
 
 votre objectif est de valider le plus d'exercice de grademe dans un temps limiter
